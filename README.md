@@ -1,4 +1,5 @@
-Hi there,
+Hi there👋, I'm       Brian Chege,
+
 <h3 align="center">A computer science student and a cybersecurity savvy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chegebb&label=Profile%20views&color=0e75b6&style=flat" alt="chegebb" /> </p>
