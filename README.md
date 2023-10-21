@@ -1,4 +1,19 @@
 Hi there👋, I'm       Brian Chege,
+<p align="center">
+<picture><img src="./img/about_me.gif" width = 45px align="center"></picture><b></b>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
+  <a href="https://github.com/getintorj/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Brian%20Chege%20;Cyber%20Savvy%20;ETHICAL%20HACKER%20;Cybersecurity%20Enthusiast%20And%20Front-end%20Developer;CTF%20Beginner(PicoCTF);Computer%20Science-Student&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+
+<p align="center">
+<a href=#><img src="contributions.svg"></a> 
+ </p>
 
 <h3 align="center">A computer science student and a cybersecurity savvy</h3>
 
