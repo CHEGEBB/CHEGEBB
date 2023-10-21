@@ -16,3 +16,7 @@ jobs:
       - name: Run My Task
         run: |
           echo "Hello from my GitHub Action!"
+          
+              - name: Cache
+                uses: actions/cache@v3.3.2
+            
