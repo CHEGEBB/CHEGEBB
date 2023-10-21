@@ -38,3 +38,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Debug github_user_name
+  run: echo "GitHub Username: ${{ CHEGEBB }}"
+
