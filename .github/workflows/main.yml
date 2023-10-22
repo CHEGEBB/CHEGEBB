@@ -8,10 +8,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v3
+      - name: Node Setup
+        uses: actions/setup-node@v3
         with:
           cache: yarn
-          node-version: 20
+          node-version: 14
       - run: yarn install --frozen-lockfile
 
       - run: npm run type
@@ -57,10 +58,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v3
+      - name: Node Setup
+        uses: actions/setup-node@v3
         with:
           cache: yarn
-          node-version: 20
+          node-version: 14
       - run: yarn install --frozen-lockfile
 
       - name: build svg-only action
@@ -95,10 +97,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v3
+      - name: Node Setup
+        uses: actions/setup-node@v3
         with:
           cache: yarn
-          node-version: 20
+          node-version: 14
       - run: yarn install --frozen-lockfile
 
       - run: npm run build:demo
