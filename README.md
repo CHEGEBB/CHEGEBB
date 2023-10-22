@@ -54,7 +54,7 @@ Hi there👋, I'm       Brian Chege,
 
 
 ## Watch my contribution being eaten way
-![snake gif](https://github.com/CHEGEBB/CHEGEBB/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/{{CHEGEBB}}/{{CHEGEBB}}/blob/output/github-contribution-grid-snake.svg)
 
 
 
