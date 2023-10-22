@@ -9,8 +9,7 @@ Hi there👋, I'm       Brian Chege,
     <img src="https://readme-typing-svg.demolab.com/?lines=Brian%20Chege%20;Cyber%20Savvy%20;ETHICAL%20HACKER%20;Cybersecurity%20Enthusiast%20And%20Front-end%20Developer;CTF%20Beginner(PicoCTF);Computer%20Science-Student&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-## Watch my contribution being eaten way
-![snake gif](https://github.com/CHEGEBB/CHEGEBB/blob/output/github-contribution-grid-snake.svg)
+
 
 # 💫 About Me:
 🔭 I’m currently working on front-end development<br><br>🌱 I’m currently learning HTML,CSS,Java Script<br><br>👨‍💻 All of my projects are available at https://chegebb.github.io/My-portfolio-website/<br><br>💬 Ask me about HTML,CSS,java<br><br>📫 How to reach me chegephil24@gmail.com<br><br>⚡ Fun fact I like Learning new things
@@ -52,7 +51,10 @@ Hi there👋, I'm       Brian Chege,
   <img src="https://visitcount.itsvg.in/api?id=CHEGEBB&label=Profile%20Views&color=6&pretty=false" />
 </a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## Watch my contribution being eaten way
+![snake gif](https://github.com/CHEGEBB/CHEGEBB/blob/output/github-contribution-grid-snake.svg)
 
 
 
