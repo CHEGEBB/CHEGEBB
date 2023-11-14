@@ -18,8 +18,14 @@ Hi there👋, I'm       Brian Chege,
 
 
 # 💫 About Me:
-🔭 I’m currently working on front-end development<br><br>🌱 I’m currently learning HTML,CSS,Java Script<br><br>👨‍💻 All of my projects are available at https://chegebb.github.io/My-portfolio-website/<br><br>💬 Ask me about HTML,CSS,java<br><br>📫 How to reach me chegephil24@gmail.com<br><br>⚡ Fun fact I like Learning new things
+<div>
+  <a href="#">
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
+</div>
 
+<br />
+🔭 I’m currently working on front-end development<br><br>🌱 I’m currently learning HTML,CSS,Java Script<br><br>👨‍💻 All of my projects are available at https://chegebb.github.io/My-portfolio-website/<br><br>💬 Ask me about HTML,CSS,java<br><br>📫 How to reach me chegephil24@gmail.com<br><br>⚡ Fun fact I like Learning new things
 
 ## 🌐 Socials:<h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,11 +44,13 @@ Hi there👋, I'm       Brian Chege,
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CHEGEBB&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEGEBB&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
+<div>
   <a href="#">
-    <img align="center" src="https://github.com/CHEGEBB/Git-Stats/raw/actions_branch/generated_images/overviewDarkMode.svg" />
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
   </a>
-</p>
+</div>
+
+<br />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CHEGEBB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
@@ -57,10 +65,7 @@ Hi there👋, I'm       Brian Chege,
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CHEGEBB&icon=0&color=0)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=CHEGEBB&label=Profile%20Views&color=6&pretty=false" />
-</a>
+
 
 
 
@@ -73,5 +78,9 @@ Hi there👋, I'm       Brian Chege,
 </picture>
 
 
-
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/mikyll/mikyll/output/github-contribution-grid-snake.svg" />
+  </a>
+</p>
 
