@@ -13,22 +13,17 @@ Hi there👋, I'm       Brian Chege,
     <img src="https://readme-typing-svg.demolab.com/?lines=Brian%20Chege%20;Cyber%20Savvy%20;ETHICAL%20HACKER%20;Cybersecurity%20Enthusiast%20;Front-end%20Developer;CTF%20Beginner(PicoCTF);Computer%20Science-Student&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-
-
-
+<div>
+  <a href="#">
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
+</div>
 
 # 💫 About Me:
 <div align="center">
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=CHEGEBB&label=Profile%20views&color=0e75b6&style=flat" alt="CHEGEBB" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/CHEGEBB">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/CHEGEBB"></p>
-</div>
-
-
-<div>
-  <a href="#">
-    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
 </div>
 
 <br />
@@ -60,6 +55,9 @@ Hi there👋, I'm       Brian Chege,
 <br />
 
 ## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+
 ![](https://github-profile-trophy.vercel.app/?username=CHEGEBB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
@@ -72,22 +70,25 @@ Hi there👋, I'm       Brian Chege,
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-
-
-
+<img src="https://camo.githubusercontent.com/831de4f419cb893fae5dc5edb238d56de1b860de7ebe00fc1188fe29088c6fc1/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d38623030376526637573746f6d5f7469746c653d2545322541442539302532305452494e4942253230254532254144253930" width="100%">
+<h4 align="left">
+</h4>
+ 
+╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
+<h4>
+<h4 align="left">  
+ 
+╚═════ &nbsp;𝐈𝐓'𝐒 [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) 𝐈𝐍 𝐇𝐄𝐑𝐄...
+<h4>
 
 ## Watch my contribution being eaten way
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 
+
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/mikyll/mikyll/output/github-contribution-grid-snake.svg" />
-  </a>
-</p>
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
