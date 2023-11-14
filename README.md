@@ -18,6 +18,13 @@ Hi there👋, I'm       Brian Chege,
 
 
 # 💫 About Me:
+<div align="center">
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=CHEGEBB&label=Profile%20views&color=0e75b6&style=flat" alt="CHEGEBB" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/CHEGEBB">
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/CHEGEBB"></p>
+</div>
+
+
 <div>
   <a href="#">
     <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
