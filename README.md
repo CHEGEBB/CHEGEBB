@@ -10,6 +10,8 @@ Hi there👋, I'm       Brian Chege,
 </p>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHEGEBB)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # 💫 About Me:
 🔭 I’m currently working on front-end development<br><br>🌱 I’m currently learning HTML,CSS,Java Script<br><br>👨‍💻 All of my projects are available at https://chegebb.github.io/My-portfolio-website/<br><br>💬 Ask me about HTML,CSS,java<br><br>📫 How to reach me chegephil24@gmail.com<br><br>⚡ Fun fact I like Learning new things
