@@ -46,12 +46,6 @@ Hi there👋, I'm       Brian Chege,
 ![CHEGEBB'S GitHub stat](https://github-readme-stats.vercel.app/api?username=CHEGEBB&show_icons=true&theme=tokyonight)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CHEGEBB&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEGEBB&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/CHEGEBB/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/CHEGEBB/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/CHEGEBB/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/CHEGEBB/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
 
 <div>
   <a href="#">
