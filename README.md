@@ -1,4 +1,11 @@
-Hi there👋, I'm       Brian Chege,
+
+![welcome](https://github.com/CHEGEBB/CHEGEBB/assets/123733116/faa9c896-3625-4d23-9436-342c875913d4)
+
+### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Brian Chege,
+
+
+<div align="centre">
+ 
 <p align="center">
 <picture><img src="./img/about_me.gif" width = 45px align="center"></picture><b></b>
 </p>
@@ -105,3 +112,8 @@ Hi there👋, I'm       Brian Chege,
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 <br><br>
 
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
