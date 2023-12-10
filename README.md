@@ -34,7 +34,7 @@
 </div>
 
 <br />
-🔭 I’m currently working on front-end development<br><br>🌱 I’m currently learning HTML,CSS,Java Script<br><br>👨‍💻 All of my projects are available at https://chegebb.github.io/My-portfolio-website/<br><br>💬 Ask me about HTML,CSS,java<br><br>📫 How to reach me chegephil24@gmail.com<br><br>⚡ Fun fact I like Learning new things
+🔭 I’m currently working on front-end development<br><br>🌱 I’m currently learning HTML,CSS,Java Script<br><br>👨‍💻 All of my projects are available at https://chegebb.github.io/My-portfolio-website/<br><br>💬 Ask me about HTML,CSS,java,Python<br><br>📫 How to reach me chegephil24@gmail.com<br><br>⚡ Fun fact I like Learning new things
 
 
 ## 🌐 Socials:<h3 align="left">Connect with me:</h3>
