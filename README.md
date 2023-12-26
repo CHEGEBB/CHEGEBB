@@ -1,4 +1,4 @@
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHEGEBB)](https://github.com/CHEGEBB/github-readme-stats)
 ![welcome](https://github.com/CHEGEBB/CHEGEBB/assets/123733116/faa9c896-3625-4d23-9436-342c875913d4)
 
 ### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Brian Chege,
