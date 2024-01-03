@@ -33,6 +33,7 @@
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/CHEGEBB"></p>
 </div>
 
+
 <br />
 🔭 I’m currently working on front-end development,Capturing flags (ctfs),Learning Ethical Hacking<br><br>🌱 I’m currently learning,Python HTML,CSS,Java Script,Java<br><br>👨‍💻 All of my projects are available at https://chegebb.github.io/My-portfolio-website/<br><br>💬 Ask me about HTML,CSS,java,Python<br><br>📫 How to reach me chegephil24@gmail.com<br><br>⚡ Fun fact I like Learning new things
 
@@ -48,6 +49,8 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 
 # 📊 GitHub Stats:
 ![CHEGEBB'S GitHub stat](https://github-readme-stats.vercel.app/api?username=CHEGEBB&show_icons=true&theme=tokyonight)<br/>
@@ -67,12 +70,25 @@
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
 <br><br>
 
+[![wakatime](https://wakatime.com/badge/github/CHEGEBB/FilmHaven.svg)](https://wakatime.com/badge/github/CHEGEBB/FilmHaven)
 
 ## 🏆 GitHub Trophies
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
+
+
+
+
+
 ![](https://github-profile-trophy.vercel.app/?username=CHEGEBB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+[![wakatime](https://wakatime.com/badge/github/CHEGEBB/FilmHaven.svg)](https://wakatime.com/badge/github/CHEGEBB/FilmHaven)
+
+![WakaTime](https://wakatime.com/share/@018c7e1c-3697-4686-9b16-598fa4a354b8/bb86715c-183a-4a94-9e50-b0119c0b86e1.png)
+
+![WakaTime](https://wakatime.com/share/@018c7e1c-3697-4686-9b16-598fa4a354b8/17bbc7f3-c26a-4e58-b0de-e7842d24d5a8.png)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -82,6 +98,8 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
 
 
 
