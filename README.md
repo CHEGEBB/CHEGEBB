@@ -85,7 +85,8 @@
 
 [![wakatime](https://wakatime.com/badge/github/CHEGEBB/FilmHaven.svg)](https://wakatime.com/badge/github/CHEGEBB/FilmHaven)
 
-![WakaTime](https://wakatime.com/share/@018c7e1c-3697-4686-9b16-598fa4a354b8/bb86715c-183a-4a94-9e50-b0119c0b86e1.png)
+[![WakaTime](https://wakatime.com/share/@018c7e1c-3697-4686-9b16-598fa4a354b8/50d3697f-2b66-43b1-9f9c-3b25c36739dd.png)](https://wakatime.com)
+
 
 ![WakaTime](https://wakatime.com/share/@018c7e1c-3697-4686-9b16-598fa4a354b8/17bbc7f3-c26a-4e58-b0de-e7842d24d5a8.png)
 
