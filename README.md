@@ -78,9 +78,6 @@
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
-
-
-
 ![](https://github-profile-trophy.vercel.app/?username=CHEGEBB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- activity graph heroku-app start -->
@@ -91,10 +88,7 @@
 </p>
 <!-- activity graph heroku-app end -->
 
-<p align="center">
-    <a href="https://chegebb.github.io/My-portfolio-website/">
-        <img src="https://github-profile-trophy.vercel.app/?username=CHEGEBB&column=-1&theme=tokyonight&layout=compact"width="95%"/> 
-</p>
+
 
 [![wakatime](https://wakatime.com/badge/github/CHEGEBB/FilmHaven.svg)](https://wakatime.com/badge/github/CHEGEBB/FilmHaven)
 
