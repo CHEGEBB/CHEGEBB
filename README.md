@@ -81,21 +81,19 @@
 
 
 
-
-
 ![](https://github-profile-trophy.vercel.app/?username=CHEGEBB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://jharohit.com.np/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=getintorj&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    <a href="https://chegebb.github.io/My-portfolio-website/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHEGEBB&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-    <a href="https://github.com/getintorj/getintorj">
-        <img src="https://github-profile-trophy.vercel.app/?username=getintorj&column=-1&theme=dracula&layout=compact"width="95%"/> 
+    <a href="https://chegebb.github.io/My-portfolio-website/">
+        <img src="https://github-profile-trophy.vercel.app/?username=CHEGEBB&column=-1&theme=tokyonight&layout=compact"width="95%"/> 
 </p>
 
 [![wakatime](https://wakatime.com/badge/github/CHEGEBB/FilmHaven.svg)](https://wakatime.com/badge/github/CHEGEBB/FilmHaven)
