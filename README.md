@@ -55,7 +55,6 @@
 # 📊 GitHub Stats:
 ![CHEGEBB'S GitHub stat](https://github-readme-stats.vercel.app/api?username=CHEGEBB&show_icons=true&theme=tokyonight)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CHEGEBB&theme=tokyonight&hide_border=false)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CHEGEBB&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
