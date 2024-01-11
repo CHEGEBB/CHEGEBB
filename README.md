@@ -15,10 +15,13 @@
 </div>
 
 <p align="center">
-  <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
+  
   <a href="https://github.com/getintorj/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Brian%20Chege%20;Cyber%20Savvy%20;ETHICAL%20HACKER%20;Cybersecurity%20Enthusiast%20;Front-end%20Developer;CTF%20Beginner(PicoCTF);Computer%20Science-Student&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=22" /></a>
 </p>
+
+<p align="center"><a href="https://github.com/getintorj"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+
 
 <div>
   <a href="#">
@@ -58,7 +61,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEGEBB&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
 <div>
   <a href="#">
     <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -82,6 +84,19 @@
 
 
 ![](https://github-profile-trophy.vercel.app/?username=CHEGEBB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://jharohit.com.np/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=getintorj&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
+
+<p align="center">
+    <a href="https://github.com/getintorj/getintorj">
+        <img src="https://github-profile-trophy.vercel.app/?username=getintorj&column=-1&theme=dracula&layout=compact"width="95%"/> 
+</p>
 
 [![wakatime](https://wakatime.com/badge/github/CHEGEBB/FilmHaven.svg)](https://wakatime.com/badge/github/CHEGEBB/FilmHaven)
 
