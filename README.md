@@ -74,7 +74,8 @@
 <br><br>
 
 
-![js](https://github.com/CHEGEBB/CHEGEBB/assets/123733116/fcfe08c5-aaf3-4f6d-99b7-78791529350d)
+![Alt Text](./img/js.gif)
+
 
 
 [![wakatime](https://wakatime.com/badge/github/CHEGEBB/FilmHaven.svg)](https://wakatime.com/badge/github/CHEGEBB/FilmHaven)
