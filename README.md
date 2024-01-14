@@ -86,7 +86,7 @@
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
-![](https://github-profile-trophy.vercel.app/?username=CHEGEBB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=CHEGEBB&theme=nightowl&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- activity graph heroku-app start -->
 <p align="center">
