@@ -37,6 +37,8 @@
 </div>
 
 
+
+
 <br />
 🔭 I’m currently working on front-end development,Capturing flags (ctfs),Learning Ethical Hacking<br><br>🌱 I’m currently learning,Python HTML,CSS,Java Script,Java<br><br>👨‍💻 All of my projects are available at https://chegebb.github.io/My-portfolio-website/<br><br>💬 Ask me about HTML,CSS,java,Python<br><br>📫 How to reach me chegephil24@gmail.com<br><br>⚡ Fun fact I like Learning new things
 
@@ -48,6 +50,12 @@
 <a href="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phil.gabby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" />Instagram</a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
+
+- **Dive into my music world** [![Spotify](./img/Musical%20Notes.png)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rgt7qptsff3ktwr52mccl5fpby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rgt7qptsff3ktwr52mccl5fpby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 # 💻 Tech Stack:
@@ -95,6 +103,7 @@
     </a>
 </p>
 <!-- activity graph heroku-app end -->
+
 
 
 
