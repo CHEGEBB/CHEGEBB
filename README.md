@@ -51,7 +51,8 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-- **Dive into my music world** [![Spotify](./img/Musical%20Notes.png)
+## Dive into my music world
+ ![Spotify](./img/Musical%20Notes.png)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rgt7qptsff3ktwr52mccl5fpby&cover_image=true&theme=default&show_offline=false&background_color=202222&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
