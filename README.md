@@ -33,7 +33,8 @@
 <div align="center">
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=CHEGEBB&label=Profile%20views&color=0e75b6&style=flat" alt="CHEGEBB" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/CHEGEBB">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/CHEGEBB"></p>
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/CHEGEBB">
+<img alt="https://wakatime.com/badge/user/018c7e1c-3697-4686-9b16-598fa4a354b8.svg"></p>
 </div>
 
 
