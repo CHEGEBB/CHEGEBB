@@ -31,10 +31,17 @@
 
 # 💫 About Me:
 <div align="center">
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=CHEGEBB&label=Profile%20views&color=0e75b6&style=flat" alt="CHEGEBB" />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/CHEGEBB">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/CHEGEBB">
-    <a href="https://wakatime.com/@018c7e1c-3697-4686-9b16-598fa4a354b8"><img src="https://wakatime.com/badge/user/018c7e1c-3697-4686-9b16-598fa4a354b8.svg" alt="Total time coded since Dec 18 2023" /></a></p>
+   <p align="center">
+      <a href="https://user-badge.committers.top/kenya/CHEGEBB">
+         <img src="https://user-badge.committers.top/kenya/CHEGEBB.svg" alt="committers.top badge" />
+      </a>
+      <img src="https://komarev.com/ghpvc/?username=CHEGEBB&label=Profile%20views&color=0e75b6&style=flat" alt="CHEGEBB" />
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/CHEGEBB">
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/CHEGEBB">
+      <a href="https://wakatime.com/@018c7e1c-3697-4686-9b16-598fa4a354b8">
+         <img src="https://wakatime.com/badge/user/018c7e1c-3697-4686-9b16-598fa4a354b8.svg" alt="Total time coded since Dec 18 2023" />
+      </a>
+   </p>
 </div>
 
 
