@@ -196,13 +196,13 @@
 
 
 # 📊 GitHub Stats:
-![CHEGEBB'S GitHub stat](https://github-readme-stats.vercel.app/api?username=CHEGEBB&show_icons=true&theme=nightowl)<br/>
+![CHEGEBB'S GitHub stat](https://github-readme-stats.vercel.app/api?username=CHEGEBB&show_icons=true&theme=algolia)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CHEGEBB&theme=algolia)](https://git.io/streak-stats)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEGEBB&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHEGEBB&layout=compact&langs_count=8&card_width=320&theme=algolia" />
+</a>
 
-
-
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CHEGEBB&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div>
