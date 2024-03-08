@@ -3,7 +3,6 @@
 
 ### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Brian Chege,
 
-
 <div align="centre">
  
 <p align="center">
