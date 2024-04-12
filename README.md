@@ -47,7 +47,7 @@
 
 
 <br />
-🔭 I’m currently working on front-end development,Capturing flags (ctfs),Learning Ethical Hacking<br><br>🌱 I’m currently learning,Python HTML,CSS,Java Script,Java,flask<br><br>👨‍💻 All of my projects are available at https://chegebb.github.io/My-portfolio-website/<br><br>💬 Ask me about HTML,CSS,java,Python<br><br>📫 How to reach me chegephil24@gmail.com<br><br>⚡ Fun fact I like Learning new things
+🔭 I’m currently working on front-end development,Capturing flags (ctfs),Learning Ethical Hacking<br><br>🌱 I’m currently learning,React js,sass and less css,Python ,HTML,CSS,Java Script,Java,Alx software enginerring,flask<br><br>👨‍💻 All of my projects are available at https://chegebb.github.io/My-portfolio-website/<br><br>💬 Ask me about HTML,CSS,java,Python,React,sass<br><br>📫 How to reach me chegephil24@gmail.com<br><br>⚡ Fun fact I like Learning new things
 
 
 ## 🌐 Socials:<h3 align="left">Connect with me:</h3>
