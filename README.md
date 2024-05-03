@@ -196,13 +196,13 @@
 
 
 # 📊 GitHub Stats:
-![CHEGEBB'S GitHub stat](https://github-readme-stats.vercel.app/api?username=CHEGEBB&show_icons=true&theme=algolia)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHEGEBB&theme=nightowl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CHEGEBB&theme=algolia)](https://git.io/streak-stats)<br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHEGEBB&layout=compact&langs_count=8&card_width=320&theme=algolia" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEGEBB&layout=compact&exclude_repo=Robotframwork,Tips-tools&theme=nightowl&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CHEGEBB&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <div>
@@ -252,7 +252,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CHEGEBB&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=CHEGEBB&limit=5&theme=algolia&combine_all_yearly_contributions=true)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CHEGEBB&theme=nightowl&repo=IMEI-TRACKER)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
