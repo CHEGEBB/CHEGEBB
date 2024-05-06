@@ -196,12 +196,12 @@
 
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHEGEBB&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CHEGEBB&theme=midnight-purple)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEGEBB&layout=compact&exclude_repo=Robotframwork,Tips-tools&theme=midnight-purple&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHEGEBB&theme=aura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CHEGEBB&theme=aura)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEGEBB&layout=compact&exclude_repo=Robotframwork,Tips-tools&theme=aura&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CHEGEBB&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CHEGEBB&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -227,7 +227,7 @@
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
-![](https://github-profile-trophy.vercel.app/?username=CHEGEBB&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=CHEGEBB&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- activity graph heroku-app start -->
 <p align="center">
@@ -249,11 +249,11 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=aura)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CHEGEBB&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CHEGEBB&theme=midnight-purple&repo=IMEI-TRACKER)](https://github.com/anuraghazra/github-readme-stats)<br>
+![](https://github-contributor-stats.vercel.app/api?username=CHEGEBB&limit=5&theme=aura&combine_all_yearly_contributions=true)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CHEGEBB&theme=aura&repo=IMEI-TRACKER)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
