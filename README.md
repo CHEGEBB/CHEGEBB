@@ -51,7 +51,9 @@
 🔭 I’m currently working on front-end development,Capturing flags (ctfs),Learning Ethical Hacking<br><br>🌱 I’m currently learning,React js,(sass and less)css,Python ,HTML,CSS,Java Script,Java,Alx software engineering,flask<br><br>👨‍💻 All of my projects are available at https://chegebb.github.io/My-portfolio-website/<br><br>💬 Ask me about HTML,CSS,java,Python,React,sass<br><br>📫 How to reach me chegephil24@gmail.com<br><br>⚡ Fun fact I like Learning new things
 
 
+
 ## 🌐 Socials:<h3 align="left">Connect with me:</h3>
+![Handshake](https://github.com/CHEGEBB/CHEGEBB/assets/123733116/b19b149e-e0b0-4bbe-9b80-1209dd8e2706)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/phil.gabby) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brian-chege-14bb18245) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/chegephil24) 
 
