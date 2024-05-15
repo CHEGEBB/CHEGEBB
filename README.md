@@ -199,7 +199,7 @@
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHEGEBB&theme=aura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CHEGEBB&theme=aura)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=CHEGEBB&theme=aura)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEGEBB&layout=compact&exclude_repo=Robotframwork,Tips-tools&theme=aura&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
 
