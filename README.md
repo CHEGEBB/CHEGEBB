@@ -48,7 +48,7 @@
 
 
 <br />
-🔭 I’m currently working on front-end development,Capturing flags (ctfs),Learning Ethical Hacking<br><br>🌱 I’m currently learning,React js,(sass and less)css,Python ,Nextjs,Kotlin,Java Script,Alx software engineering,Node js<br><br>👨‍💻 All of my projects are available at https://chegebb.github.io/My-portfolio-website/<br><br>💬 Ask me about JavaScript,Nextjs,Node js,React,sass<br><br>📫 How to reach me chegephil24@gmail.com<br><br>⚡ Fun fact I like Learning new things
+🔭 I’m currently workingon full  stack development,software engineering,Learning cybersecurity<br><br>🌱 I’m currently learning,React js,(sass and less)css,Python ,Nextjs,Kotlin,Java Script,Alx software engineering,Node js<br><br>👨‍💻 All of my projects are available at https://chegebb.github.io/My-portfolio-website/<br><br>💬 Ask me about JavaScript,Nextjs,Node js,React,sass<br><br>📫 How to reach me chegephil24@gmail.com<br><br>⚡ Fun fact I like Learning new things
 
 
 
