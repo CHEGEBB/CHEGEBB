@@ -62,9 +62,9 @@
  ![Spotify](./img/Musical%20Notes.png)
  ## <img src="https://media2.giphy.com/media/9MIJX9YHKVoTq4lIbm/200.webp?cid=ecf05e47npe1xvytufwdi39s7ceefrl1jxkip0znzsa9yrmk&rid=200.webp&ct=s" width="60">***Spotify Playing :headphones: ...***
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rgt7qptsff3ktwr52mccl5fpby&cover_image=true&theme=default&show_offline=false&background_color=202222&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/CHEGEBB/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rgt7qptsff3ktwr52mccl5fpby&cover_image=true&theme=default&show_offline=false&background_color=202222&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/CHEGEBB/spotify-github-profile)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rgt7qptsff3ktwr52mccl5fpby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rgt7qptsff3ktwr52mccl5fpby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="45">&nbsp;&nbsp;***Tech Stack ...***
