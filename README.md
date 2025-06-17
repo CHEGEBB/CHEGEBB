@@ -48,7 +48,7 @@
 
 
 <br />
-🔭 I’m currently working on full  stack development,software engineering,Learning cybersecurity<br><br>🌱 I’m currently learning,React js,(sass and less)css,Python ,Nextjs,Kotlin,Java Script,Alx software engineering,Node js<br><br>👨‍💻 All of my projects are available at https://chegebb.github.io/My-portfolio-website/<br><br>💬 Ask me about JavaScript,Nextjs,Node js,React,sass<br><br>📫 How to reach me chegephil24@gmail.com<br><br>
+🔭 I’m currently working on full  stack development,software engineering,Learning cybersecurity<br><br>🌱 I’m currently learning,React js,(sass and less)css,Python ,Nextjs,Kotlin,Java Script,Alx software engineering,Node js<br><br>👨‍💻 All of my projects are available at 👉 (https://my-portfolio-orpin-delta-72.vercel.app) /<br><br>💬 Ask me about JavaScript,Nextjs,Node js,React,sass<br><br>📫 How to reach me chegephil24@gmail.com<br><br>
 
 
 
