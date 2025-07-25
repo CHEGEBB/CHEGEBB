@@ -26,7 +26,7 @@
   </a>
 </div>
 
-## 🚀💻 VISIT MY EPIC PORTFOLIO WEBSITE! 💻🚀
+## 🚀💻 VISIT MY EPIC PORTFOLIO WEBSITE ,LEAVE A STAR ⭐⭐
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d1.gif" width="100">
 
