@@ -29,8 +29,8 @@
 <!-- Portfolio Badges Row -->
 <div align="center" style="display: flex; justify-content: center; gap: 15px; margin: 25px 0; flex-wrap: wrap;">
 
-[![Portfolio](https://img.shields.io/badge/🚀_VISIT_PORTFOLIO-4ade80?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://brianchege.vercel.app)
-[![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-4ade80?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/brian-chege-14bb18245)
+[![Portfolio](https://img.shields.io/badge/🚀_VISIT_PORTFOLIO-4ade80?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://brianchege.me)
+[![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-4ade80?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/254796562713)
 [![GitHub](https://img.shields.io/badge/⭐_GITHUB_PROFILE-4ade80?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/CHEGEBB)
 
 </div>
@@ -221,12 +221,11 @@
 <!-- Portfolio Badges Row -->
 <div align="center" style="display: flex; justify-content: center; gap: 15px; margin: 25px 0; flex-wrap: wrap;">
 
-[![Portfolio](https://img.shields.io/badge/🚀_VISIT_PORTFOLIO-4ade80?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://brianchege.vercel.app)
-[![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-4ade80?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/brian-chege-14bb18245)
+[![Portfolio](https://img.shields.io/badge/🚀_VISIT_PORTFOLIO-4ade80?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://brianchege.me)
+[![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-4ade80?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/254796562713)
 [![GitHub](https://img.shields.io/badge/⭐_GITHUB_PROFILE-4ade80?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/CHEGEBB)
 
 </div>
-
 
 
 
