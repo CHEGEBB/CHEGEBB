@@ -69,6 +69,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
+
+# 📊 GitHub Stats:
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=CHEGEBB&show_icons=true&theme=nightowl) <br/>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=CHEGEBB&theme=nightowl)](https://github.com/CHEGEBB/github-readme-stats-fast)  <br/>
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=CHEGEBB&repo=IMEI-TRACKER&theme=nightowl)](https://github.com/CHEGEBB/github-readme-stats)  <br/>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CHEGEBB&theme=nightowl&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)  <br/>
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=CHEGEBB&theme=nightowl&layout=compact)](https://github.com/CHEGEBB/github-readme-stats-fast)
+
 ## Dive into my music world
  ![Spotify](./img/Musical%20Notes.png)
  ## <img src="https://media2.giphy.com/media/9MIJX9YHKVoTq4lIbm/200.webp?cid=ecf05e47npe1xvytufwdi39s7ceefrl1jxkip0znzsa9yrmk&rid=200.webp&ct=s" width="60">***Spotify Playing :headphones: ...***
@@ -209,12 +217,6 @@
 ### 🚀 **CHECK MY PORTFOLIO: [brianchege.me](https://brianchege.me)** 🚀
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="150">
 
-# 📊 GitHub Stats:
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=CHEGEBB&show_icons=true&theme=nightowl) <br/>
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=CHEGEBB&theme=nightowl)](https://github.com/CHEGEBB/github-readme-stats-fast)  <br/>
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=CHEGEBB&repo=IMEI-TRACKER&theme=nightowl)](https://github.com/CHEGEBB/github-readme-stats)  <br/>
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CHEGEBB&theme=nightowl&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)  <br/>
-[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=CHEGEBB&theme=nightowl&layout=compact)](https://github.com/CHEGEBB/github-readme-stats-fast)
 
 
 
