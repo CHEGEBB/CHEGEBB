@@ -208,13 +208,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99fa18717b5b.gif" width="1000">
 
 ## 💰💎 WANT TO HIRE A FULL-STACK DEVELOPER? 💎💰
-### 🚀 **CHECK MY PORTFOLIO: [brianchege.vercel.app](https://brianchege.vercel.app)** 🚀
+### 🚀 **CHECK MY PORTFOLIO: [brianchege.me](https://brianchege.me)** 🚀
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="150">
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHEGEBB&theme=aura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=CHEGEBB&theme=aura)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEGEBB&layout=compact&exclude_repo=Robotframwork,Tips-tools&theme=aura&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://raw.githubusercontent.com/CHEGEBB/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/CHEGEBB/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CHEGEBB&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
