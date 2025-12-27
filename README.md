@@ -26,9 +26,14 @@
   </a>
 </div>
 
-## 🚀💻 VISIT MY EPIC PORTFOLIO WEBSITE ,LEAVE A STAR ⭐⭐
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d1.gif" width="100">
+<!-- Portfolio Badges Row -->
+<div align="center" style="display: flex; justify-content: center; gap: 15px; margin: 25px 0; flex-wrap: wrap;">
+
+[![Portfolio](https://img.shields.io/badge/🚀_VISIT_PORTFOLIO-4ade80?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://brianchege.vercel.app)
+[![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-4ade80?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/brian-chege-14bb18245)
+[![GitHub](https://img.shields.io/badge/⭐_GITHUB_PROFILE-4ade80?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/CHEGEBB)
+
+</div>
 
 
 <a href="https://brianchege.vercel.app">
@@ -84,7 +89,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rgt7qptsff3ktwr52mccl5fpby&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
  
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 
 ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="45">&nbsp;&nbsp;***Tech Stack ...***
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
@@ -214,8 +218,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99fa18717b5b.gif" width="1000">
 
 ## 💰💎 WANT TO HIRE A FULL-STACK DEVELOPER? 💎💰
-### 🚀 **CHECK MY PORTFOLIO: [brianchege.me](https://brianchege.me)** 🚀
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="150">
+<!-- Portfolio Badges Row -->
+<div align="center" style="display: flex; justify-content: center; gap: 15px; margin: 25px 0; flex-wrap: wrap;">
+
+[![Portfolio](https://img.shields.io/badge/🚀_VISIT_PORTFOLIO-4ade80?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://brianchege.vercel.app)
+[![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-4ade80?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/brian-chege-14bb18245)
+[![GitHub](https://img.shields.io/badge/⭐_GITHUB_PROFILE-4ade80?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/CHEGEBB)
+
+</div>
 
 
 
@@ -248,7 +258,7 @@
 <!-- activity graph heroku-app start -->
 <p>
     <a href="https://chegebb.github.io/My-portfolio-website/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHEGEBB&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHEGEBB&theme=chartreuse-dark&hide_border=false&hide_title=false&area=true&custom_title=🚀%20CONTRIBUTION%20ACTIVITY%20GRAPH%20🚀&area_color=4ade80&line=4ade80&point=ffffff&title_color=4ade80&bg_color=0d1117" width="98%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
