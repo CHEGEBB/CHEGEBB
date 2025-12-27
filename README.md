@@ -30,7 +30,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d1.gif" width="100">
 
-### 🔥🔥 **[CLICK HERE TO SEE MY AMAZING WORK - brianchege.vercel.app](https://brianchege.vercel.app)** 🔥🔥
 
 <a href="https://brianchege.vercel.app">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="150">
@@ -39,7 +38,6 @@
 
 **🌟 PORTFOLIO = PROJECTS + SKILLS + EXPERIENCE = HIRE ME! 🌟**
 
-<a href="https://stardev.io/developers/CHEGEBB"><img alt="Check out CHEGEBB's profile on stardev.io" src="https://stardev.io/developers/CHEGEBB/badge/languages/country.svg" /></a>
 
 # 💫 About Me:
 <div>
@@ -212,14 +210,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="150">
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHEGEBB&theme=aura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=CHEGEBB&theme=aura)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEGEBB&layout=compact&exclude_repo=Robotframwork,Tips-tools&theme=aura&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=CHEGEBB&show_icons=true&theme=nightowl) <br/>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=CHEGEBB&theme=nightowl)](https://github.com/CHEGEBB/github-readme-stats-fast)  <br/>
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=CHEGEBB&repo=IMEI-TRACKER&theme=nightowl)](https://github.com/CHEGEBB/github-readme-stats)  <br/>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CHEGEBB&theme=nightowl&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)  <br/>
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=CHEGEBB&theme=nightowl&layout=compact)](https://github.com/CHEGEBB/github-readme-stats-fast)
 
-![](https://raw.githubusercontent.com/CHEGEBB/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/CHEGEBB/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CHEGEBB&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284175-1dee8729-d0c2-4824-9d04-0d0b9c0cf26c.gif" width="1000">
 
