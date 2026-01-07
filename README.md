@@ -63,11 +63,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="300">
 
 <br />
-🔭 I'm currently working on **Full-Stack Development**, **Software Engineering**, **Mobile App Development**, **Web Development**, and learning **Cybersecurity**  
+🔭 I'm currently working on **Full-Stack Development**, **Software Engineering**, **Mobile App Development**, **Web Development**, and learning **Cybersecurity**  <br />
 
-🌱 I'm currently learning **React.js**, **Sass & Less**, **CSS**, **Python**, **Next.js**, **Kotlin**, **JavaScript**, **ALX Software Engineering**, and **Node.js**  
+🌱 I'm currently learning **React.js**, **Sass & Less**, **CSS**, **Python**, **Next.js**, **Kotlin**, **JavaScript**, **ALX Software Engineering**, and **Node.js**  <br />
 
-👨‍💻 All of my projects are available at 👇⬇️
+👨‍💻 All of my projects are available at 👉
 [![Portfolio](https://img.shields.io/badge/Portfolio-brianchege.me-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brianchege.me)
 
 💬 Ask me about **JavaScript**, **Next.js**, **Node.js**, **React**, and **Sass**  
