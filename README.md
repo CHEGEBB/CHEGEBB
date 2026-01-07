@@ -63,15 +63,17 @@
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="300">
 
 <br />
-🔭 I'm currently working on **Full-Stack Development**, **Software Engineering**, **Mobile App Development**, **Web Development**, and learning **Cybersecurity**
 
-🌱 I'm currently learning **React.js**, **Sass & Less**, **CSS**, **Python**, **Next.js**, **Kotlin**, **JavaScript**, **ALX Software Engineering**, and **Node.js**
+🔭 I'm currently working on Full-Stack Development, Software Engineering, Mobile App Development, Web Development, and learning Cybersecurity
 
-👨‍💻 All of my projects are available at 👉 [![Portfolio](https://img.shields.io/badge/Portfolio-brianchege.me-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brianchege.me)
+🌱 I'm currently learning React.js, Sass & Less, CSS, Python, Next.js, Kotlin, JavaScript, ALX Software Engineering, and Node.js
 
-💬 Ask me about **JavaScript**, **Next.js**, **Node.js**, **React**, and **Sass**
+👨‍💻 All of my projects are available at 👇 <br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-brianchege.me-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brianchege.me)
 
-📫 How to reach me: **chegephil24@gmail.com**
+💬 Ask me about JavaScript, Next.js, Node.js, React, and Sass
+
+📫 How to reach me: chegephil24@gmail.com
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
