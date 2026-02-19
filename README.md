@@ -93,6 +93,9 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CHEGEBB&theme=nightowl&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)  <br/>
 [![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=CHEGEBB&theme=nightowl&layout=compact)](https://github.com/CHEGEBB/github-readme-stats-fast)
 
+![](https://github-trophies.vercel.app/?username=CHEGEBB&theme=radical)
+
+
 ## Dive into my music world
  ![Spotify](./img/Musical%20Notes.png)
  ## <img src="https://media2.giphy.com/media/9MIJX9YHKVoTq4lIbm/200.webp?cid=ecf05e47npe1xvytufwdi39s7ceefrl1jxkip0znzsa9yrmk&rid=200.webp&ct=s" width="60">***Spotify Playing :headphones: ...***
