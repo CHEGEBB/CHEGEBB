@@ -11,11 +11,10 @@
 </div>
 
 <p>
-   
   <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Brian%20Chege%20;Cyber%20Savvy%20;ETHICAL%20HACKER%20;Cybersecurity%20Enthusiast%20;Full-stack%20Developer;CTF%20Beginner(PicoCTF);Computer%20Science-Student&font=Fira%20Code&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=26" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Brian%20Chege;Full-Stack%20Software%20Developer;CTO%20%40%20Softrinx;Cybersecurity%20Enthusiast;Ethical%20Hacking%20Learner;CTF%20Player%20(PicoCTF);Building%20Web%20%26%20Mobile%20Solutions&font=Fira%20Code&width=600&height=45&color=39FF14&vCenter=true&pause=1000&size=26" />
+  </a>
 </p>
-
 
 <p><a href="https://github.com/getintorj"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
