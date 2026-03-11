@@ -323,7 +323,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 ## 🎯🔥 LAST CHANCE TO VISIT MY PORTFOLIO! 🔥🎯
-### **💼 SEE ALL MY PROJECTS: [brianchege.vercel.app](https://brianchege.vercel.app) 💼**
+### **💼 SEE ALL MY PROJECTS: [brianchege.me](https://brianchege.me) 💼**
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4471-9718-148b3a9e178c.gif" width="100">
 
 <div>
